@@ -1,0 +1,6 @@
+{
+  "name": "Centro Médico Porcelana",
+  "description": "Centro Médico Porcelana: clínica médica no Rangel, Luanda, Angola. Cuidado médico perto de si, a qualquer hora. Aberto 24 horas, todos os dias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
